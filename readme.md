@@ -2,7 +2,7 @@
 
 ## Set env
 
-    1C_ENV=8.3.6-2299 # For example
+    1C_VER=8.3.6-2299 # For example
 
 ## Download dependency
 
